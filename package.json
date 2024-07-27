@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/complex-float64-ctor",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "128-bit complex number.",
   "license": "Apache-2.0",
   "author": {
@@ -40,7 +40,7 @@
   },
   "dependencies": {
     "@stdlib/assert-is-number": "^0.2.2",
-    "@stdlib/complex-float32-ctor": "^0.0.1",
+    "@stdlib/complex-float32-ctor": "^0.0.2",
     "@stdlib/string-format": "^0.2.2",
     "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.2",
     "@stdlib/utils-define-property": "^0.2.4",
